@@ -1,2 +1,2 @@
 # OnscripterHtml5
-run .nsa  visual novel game on web
+run arc.nsa  visual novel game on web
